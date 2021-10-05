@@ -1,5 +1,7 @@
 # stackdriver-to-discord
 
+**This project is no longer maintained, and has been replaced with https://github.com/Courtsite/gcp-monitoring-to-teams**
+
 ⚙️ A simple Google Cloud Function in Go to transform / proxy Stackdriver Static Webhook notifications to Discord.
 
 _This project has been tested with the Go 1.11, and Go 1.13 runtimes._
